@@ -1,0 +1,20 @@
+C:\Users\user\source\repos\ZooEncyclopedia\ZooEncyclopedia\obj\Debug\ZooEncyclopedia.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\ZooEncyclopedia\ZooEncyclopedia\obj\Debug\ZooEncyclopedia.Form1.resources
+C:\Users\user\source\repos\ZooEncyclopedia\ZooEncyclopedia\obj\Debug\ZooEncyclopedia.Properties.Resources.resources
+C:\Users\user\source\repos\ZooEncyclopedia\ZooEncyclopedia\obj\Debug\ZooEncyclopedia.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ZooEncyclopedia\ZooEncyclopedia\obj\Debug\ZooEncyclopedia.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ZooEncyclopedia\ZooEncyclopedia\bin\Debug\ZooEncyclopedia.exe.config
+C:\Users\user\source\repos\ZooEncyclopedia\ZooEncyclopedia\bin\Debug\ZooEncyclopedia.exe
+C:\Users\user\source\repos\ZooEncyclopedia\ZooEncyclopedia\bin\Debug\ZooEncyclopedia.pdb
+C:\Users\user\source\repos\ZooEncyclopedia\ZooEncyclopedia\bin\Debug\libTUIO.dll
+C:\Users\user\source\repos\ZooEncyclopedia\ZooEncyclopedia\bin\Debug\TCD.System.TUIO.dll
+C:\Users\user\source\repos\ZooEncyclopedia\ZooEncyclopedia\obj\Debug\ZooEncyc.5445BE62.Up2Date
+C:\Users\user\source\repos\ZooEncyclopedia\ZooEncyclopedia\obj\Debug\ZooEncyclopedia.exe
+C:\Users\user\source\repos\ZooEncyclopedia\ZooEncyclopedia\obj\Debug\ZooEncyclopedia.pdb
+C:\Users\user\source\repos\ZooEncyclopedia\ZooEncyclopedia\bin\Debug\lion.jpg
+C:\Users\user\source\repos\ZooEncyclopedia\ZooEncyclopedia\bin\Debug\lion den.jpg
+C:\Users\user\source\repos\ZooEncyclopedia\ZooEncyclopedia\bin\Debug\monky tree2.jpg
+C:\Users\user\source\repos\ZooEncyclopedia\ZooEncyclopedia\bin\Debug\monky.jpg
+C:\Users\user\source\repos\ZooEncyclopedia\ZooEncyclopedia\bin\Debug\polar bear den.png
+C:\Users\user\source\repos\ZooEncyclopedia\ZooEncyclopedia\bin\Debug\polar bears.jpg
+C:\Users\user\source\repos\ZooEncyclopedia\ZooEncyclopedia\bin\Debug\zoo3.jpg
